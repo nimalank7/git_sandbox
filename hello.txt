@@ -1,1 +1,2 @@
 Hello from master
+master text before true merge
