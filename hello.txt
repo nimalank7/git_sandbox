@@ -2,3 +2,4 @@ Hello from master
 master text before true merge
 true merge branch
 Another line onto hello.txt
+Text from local master then pushed up
