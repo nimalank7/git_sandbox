@@ -3,3 +3,4 @@ master text before true merge
 true merge branch
 Another line onto hello.txt
 Text from local master then pushed up
+Another attempt at local master without origin/master
